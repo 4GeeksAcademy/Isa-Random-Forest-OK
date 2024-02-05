@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+/workspaces/Isa-Random-Forest-OK/src/Random_Forest_grid.sav
+/workspaces/Isa-Random-Forest-OK/data/processed/clean_train.csv
+/workspaces/Isa-Random-Forest-OK/data/processed/clean_test.csv
